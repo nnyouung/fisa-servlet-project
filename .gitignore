@@ -1,0 +1,23 @@
+### Java ###
+*.class
+
+### Build ###
+sample-workspace/sample-project/build/
+
+### Eclipse / IDE ###
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+
+### Servers & Local Config ###
+sample-workspace/Servers/
+
+### Libraries ###
+#*.jar
+
+### OS ###
+.DS_Store
+Thumbs.dbb
