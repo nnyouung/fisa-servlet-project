@@ -122,9 +122,10 @@
 
 | 테이블 | 설명 |
 |--------|------|
-| `EDU_DATA_F_2` | 카드 소비 원본 데이터 (수백만 건) |
+| `EDU_DATA_F_2` | 전처리된 소비 이력 데이터 (중분류 제거, 대분류 기준) |
 | `USER_INFO` | 사용자 정보 (고객번호, 비밀번호, 성별, 연령대) |
 | `AVERAGE_DATA_F` | 연령대 + 성별 기준 평균 소비 통계 |
+<img width="50%" alt="ERD_dark" src="https://github.com/user-attachments/assets/027f7890-0c5b-4f06-8332-cdf91bd8100a" />
 
 ---
 
