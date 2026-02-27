@@ -145,6 +145,8 @@ sudo brew services start nginx
 http://localhost
 ```
 
+---
+
 ## ☠️ 데이터 모델링 이슈: 시계열 데이터 처리에 따른 외래키 설정 제약
 
 1. **현황**: USER_INFO는 SEQ를 PK로 가져가기 위해 AGE를 단일값(MAX)으로 가공.
