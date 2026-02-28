@@ -131,10 +131,10 @@
 
 ## 🚀 실행 방법
 
-환경 구축
 
-| 순서 | 계층 | 가이드 문서 |
-|------|------|------------|
+
+| 순서 | 계층 | 환경 구축 가이드 문서 |
+|------|------|----------------|
 | 1️⃣ | Data | [`database/setting_guide.md`](database/setting_guide.md) |
 | 2️⃣ | WAS | [`tomcat/setting_guide.md`](tomcat/setting_guide.md) |
 | 3️⃣ | Web | [`nginx/setting_guide.md`](nginx/setting_guide.md) |
