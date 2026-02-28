@@ -131,11 +131,20 @@
 
 ## 🚀 실행 방법
 
+환경 구축
+
+| 순서 | 계층 | 가이드 문서 |
+|------|------|------------|
+| 1️⃣ | Data | [`database/setting_guide.md`](database/setting_guide.md) |
+| 2️⃣ | WAS | [`tomcat/setting_guide.md`](tomcat/setting_guide.md) |
+| 3️⃣ | Web | [`nginx/setting_guide.md`](nginx/setting_guide.md) |
+
 ```bash
 # 1. MySQL Docker 컨테이너 실행
 docker start [mysql-container]
 
 # 2. Tomcat 1 (8080) 실행
+
 # 3. Tomcat 2 (8090) 실행
 
 # 4. Nginx 실행
